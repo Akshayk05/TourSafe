@@ -1,6 +1,6 @@
 
 # 🚨 TourSafe
-![](https://github.com/gsdev42/Bajaj-Hack/blob/bec9e69f15270b038c6d8771fc73cfaddae78689/DocuMind%20AI.png)
+![](TourSafe_logo.png)
 
 ### *Smart Tourist Safety Monitoring & Incident Response System*
 
