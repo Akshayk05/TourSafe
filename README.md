@@ -4,9 +4,14 @@
 
 ### *Smart Tourist Safety Monitoring & Incident Response System*
 
-> **Problem Statement (SIH 2025):**
-> No real-time monitoring in remote/risky zones → delayed emergency responses → families lack visibility into loved ones’ safety.
+ **Problem Statement ID : 25002**
+ * Smart Tourist Safety Monitoring & Incident Response System using Al, Geo-Fencing, and Blockchain-based Digital ID
 
+---
+## Problems Addressed
+* No real-time monitoring in remote/risky zones
+* Delayed emergency response
+* Families lack visibility into loved ones’ safety
 ---
 
 ## ⚡ Rapid Response Measures
